@@ -22,9 +22,6 @@ ENV PATH="$JAVA_HOME/bin:$PATH"
 # Gauge
 RUN curl -SsL https://downloads.gauge.org/stable | sh
 
-# Update PATH for Gauge
-ENV PATH="/root/.gauge/bin:$PATH"
-
 # Gauge plugins
 RUN gauge install java && \
     gauge install screenshot
