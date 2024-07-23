@@ -15,6 +15,9 @@ RUN apt-get update && apt-get install -y \
     wget \
     openjdk-11-jdk
 
+ENV JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+ENV PATH="$JAVA_HOME/bin:$PATH"
+
 # Gauge
 RUN curl -SsL https://downloads.gauge.org/stable | sh
 
