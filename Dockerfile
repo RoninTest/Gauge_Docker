@@ -32,5 +32,9 @@ RUN mvn clean package
 # Environment variables
 ENV PATH=$HOME/.gauge:$PATH
 
+# JAVA_HOME
+ENV JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+ENV PATH="$JAVA_HOME/bin:$PATH"
+
 # Gauge command
 CMD ["gauge", "run", "specs"]
