@@ -1,0 +1,176 @@
+23-07-2024 00:18:05.311 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+23-07-2024 00:18:05.311 [Gauge] [INFO] Initializing specs cache with 1 specs
+23-07-2024 00:18:05.311 [Gauge] [DEBUG] Adding specs from /Users/alierendasdemir/IdeaProjects/Gauge_Docker/specs/test.spec
+23-07-2024 00:18:05.311 [Gauge] [INFO] Initializing steps cache with 1 steps
+23-07-2024 00:18:05.311 [Gauge] [INFO] Gauge daemon initialized and listening on port: 52033
+23-07-2024 00:18:05.312 [Gauge] [DEBUG] Watching directory: /Users/alierendasdemir/IdeaProjects/Gauge_Docker/specs
+23-07-2024 00:18:05.312 [Gauge] [DEBUG] Found 1 files
+23-07-2024 00:18:37.068 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"My first test"}
+23-07-2024 00:18:37.068 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"My first test" parameterizedStepValue:"My first test"}}
+23-07-2024 00:21:56.030 [Gauge] [DEBUG] Spec file added / modified: /Users/alierendasdemir/IdeaProjects/Gauge_Docker/specs/test.spec
+23-07-2024 00:24:26.207 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"M"}
+23-07-2024 00:24:26.207 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"M" parameterizedStepValue:"M"}}
+23-07-2024 00:24:26.219 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:24:26.219 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"My first test" parameterizedStepValue:"My first test"}}
+23-07-2024 00:24:26.221 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:24:26.221 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:24:26.407 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Mu"}
+23-07-2024 00:24:26.407 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Mu" parameterizedStepValue:"Mu"}}
+23-07-2024 00:24:26.650 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Mul"}
+23-07-2024 00:24:26.650 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Mul" parameterizedStepValue:"Mul"}}
+23-07-2024 00:24:27.021 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Muli"}
+23-07-2024 00:24:27.021 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Muli" parameterizedStepValue:"Muli"}}
+23-07-2024 00:24:27.550 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Mult"}
+23-07-2024 00:24:27.550 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Mult" parameterizedStepValue:"Mult"}}
+23-07-2024 00:24:27.553 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:24:27.553 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"My first test" parameterizedStepValue:"My first test"}}
+23-07-2024 00:24:27.554 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:24:27.554 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:24:27.554 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:24:27.554 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"My first test" parameterizedStepValue:"My first test"}}
+23-07-2024 00:24:27.554 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:24:27.554 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:24:28.161 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multi"}
+23-07-2024 00:24:28.161 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multi" parameterizedStepValue:"Multi"}}
+23-07-2024 00:24:28.408 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multip"}
+23-07-2024 00:24:28.408 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multip" parameterizedStepValue:"Multip"}}
+23-07-2024 00:24:28.613 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multipl"}
+23-07-2024 00:24:28.614 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multipl" parameterizedStepValue:"Multipl"}}
+23-07-2024 00:24:28.718 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple"}
+23-07-2024 00:24:28.718 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple" parameterizedStepValue:"Multiple"}}
+23-07-2024 00:24:30.095 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple t"}
+23-07-2024 00:24:30.095 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple t" parameterizedStepValue:"Multiple t"}}
+23-07-2024 00:24:30.101 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:24:30.101 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"My first test" parameterizedStepValue:"My first test"}}
+23-07-2024 00:24:30.101 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:24:30.101 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:24:30.102 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:24:30.102 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"My first test" parameterizedStepValue:"My first test"}}
+23-07-2024 00:24:30.102 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:24:30.102 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:24:30.458 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple tw"}
+23-07-2024 00:24:30.458 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple tw" parameterizedStepValue:"Multiple tw"}}
+23-07-2024 00:24:38.411 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <n>"}
+23-07-2024 00:24:38.412 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {}" parameterizedStepValue:"Multiple <n>" parameters:"n"}}
+23-07-2024 00:24:40.003 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <nu>"}
+23-07-2024 00:24:40.003 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {}" parameterizedStepValue:"Multiple <nu>" parameters:"nu"}}
+23-07-2024 00:24:40.199 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <num>"}
+23-07-2024 00:24:40.199 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {}" parameterizedStepValue:"Multiple <num>" parameters:"num"}}
+23-07-2024 00:24:40.393 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <numn>"}
+23-07-2024 00:24:40.393 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {}" parameterizedStepValue:"Multiple <numn>" parameters:"numn"}}
+23-07-2024 00:24:40.469 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <numne>"}
+23-07-2024 00:24:40.469 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {}" parameterizedStepValue:"Multiple <numne>" parameters:"numne"}}
+23-07-2024 00:24:40.576 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <numner>"}
+23-07-2024 00:24:40.576 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {}" parameterizedStepValue:"Multiple <numner>" parameters:"numner"}}
+23-07-2024 00:24:40.780 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <numner1>"}
+23-07-2024 00:24:40.780 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {}" parameterizedStepValue:"Multiple <numner1>" parameters:"numner1"}}
+23-07-2024 00:24:42.354 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <numb>"}
+23-07-2024 00:24:42.354 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {}" parameterizedStepValue:"Multiple <numb>" parameters:"numb"}}
+23-07-2024 00:24:42.460 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <numbe>"}
+23-07-2024 00:24:42.460 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {}" parameterizedStepValue:"Multiple <numbe>" parameters:"numbe"}}
+23-07-2024 00:24:42.556 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <number>"}
+23-07-2024 00:24:42.556 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {}" parameterizedStepValue:"Multiple <number>" parameters:"number"}}
+23-07-2024 00:24:42.795 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <number1>"}
+23-07-2024 00:24:42.795 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {}" parameterizedStepValue:"Multiple <number1>" parameters:"number1"}}
+23-07-2024 00:24:44.069 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <number1> a"}
+23-07-2024 00:24:44.069 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {} a" parameterizedStepValue:"Multiple <number1> a" parameters:"number1"}}
+23-07-2024 00:24:44.075 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:24:44.075 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"My first test" parameterizedStepValue:"My first test"}}
+23-07-2024 00:24:44.076 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:24:44.076 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:24:44.076 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:24:44.076 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"My first test" parameterizedStepValue:"My first test"}}
+23-07-2024 00:24:44.076 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:24:44.076 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:24:44.185 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <number1> ad"}
+23-07-2024 00:24:44.185 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {} ad" parameterizedStepValue:"Multiple <number1> ad" parameters:"number1"}}
+23-07-2024 00:24:44.712 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <number1> adb"}
+23-07-2024 00:24:44.712 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {} adb" parameterizedStepValue:"Multiple <number1> adb" parameters:"number1"}}
+23-07-2024 00:24:45.428 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <number1> an"}
+23-07-2024 00:24:45.428 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {} an" parameterizedStepValue:"Multiple <number1> an" parameters:"number1"}}
+23-07-2024 00:24:45.437 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <number1> anb"}
+23-07-2024 00:24:45.437 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {} anb" parameterizedStepValue:"Multiple <number1> anb" parameters:"number1"}}
+23-07-2024 00:24:45.439 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:24:45.439 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"My first test" parameterizedStepValue:"My first test"}}
+23-07-2024 00:24:45.439 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:24:45.439 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:24:45.440 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:24:45.440 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"My first test" parameterizedStepValue:"My first test"}}
+23-07-2024 00:24:45.440 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:24:45.440 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:24:45.520 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <number1> anbd"}
+23-07-2024 00:24:45.520 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {} anbd" parameterizedStepValue:"Multiple <number1> anbd" parameters:"number1"}}
+23-07-2024 00:24:46.532 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <number1> and"}
+23-07-2024 00:24:46.532 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {} and" parameterizedStepValue:"Multiple <number1> and" parameters:"number1"}}
+23-07-2024 00:24:46.534 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:24:46.534 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"My first test" parameterizedStepValue:"My first test"}}
+23-07-2024 00:24:46.534 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:24:46.534 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:24:46.534 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:24:46.534 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"My first test" parameterizedStepValue:"My first test"}}
+23-07-2024 00:24:46.534 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:24:46.534 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:24:52.649 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <number1> and <number2>"}
+23-07-2024 00:24:52.649 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {} and {}" parameterizedStepValue:"Multiple <number1> and <number2>" parameters:"number1" parameters:"number2"}}
+23-07-2024 00:25:29.577 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <2> and <number2>"}
+23-07-2024 00:25:29.578 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {} and {}" parameterizedStepValue:"Multiple <2> and <number2>" parameters:"2" parameters:"number2"}}
+23-07-2024 00:25:31.621 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Multiple <2> and <3>"}
+23-07-2024 00:25:31.621 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Multiple {} and {}" parameterizedStepValue:"Multiple <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:25:40.468 [Gauge] [DEBUG] Spec file added / modified: /Users/alierendasdemir/IdeaProjects/Gauge_Docker/specs/test.spec
+23-07-2024 00:26:21.233 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"A <2> and <3>"}
+23-07-2024 00:26:21.234 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"A {} and {}" parameterizedStepValue:"A <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:26:21.239 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:26:21.239 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Multiple {} and {}" parameterizedStepValue:"Multiple <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:26:21.239 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:26:21.239 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:26:21.536 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"As <2> and <3>"}
+23-07-2024 00:26:21.536 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"As {} and {}" parameterizedStepValue:"As <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:26:22.235 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Ad <2> and <3>"}
+23-07-2024 00:26:22.235 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Ad {} and {}" parameterizedStepValue:"Ad <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:26:22.238 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:26:22.238 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Multiple {} and {}" parameterizedStepValue:"Multiple <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:26:22.238 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:26:22.238 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:26:22.238 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest messageId:2 allStepsRequest:{}
+23-07-2024 00:26:22.238 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse messageId:2 allStepsResponse:{allSteps:{stepValue:"Multiple {} and {}" parameterizedStepValue:"Multiple <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:26:22.238 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest messageId:6 allConceptsRequest:{}
+23-07-2024 00:26:22.238 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse messageId:6 allConceptsResponse:{}
+23-07-2024 00:26:22.421 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Add <2> and <3>"}
+23-07-2024 00:26:22.421 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Add {} and {}" parameterizedStepValue:"Add <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:26:22.795 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addi <2> and <3>"}
+23-07-2024 00:26:22.795 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addi {} and {}" parameterizedStepValue:"Addi <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:26:23.626 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addit <2> and <3>"}
+23-07-2024 00:26:23.626 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addit {} and {}" parameterizedStepValue:"Addit <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:26:24.461 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Additi <2> and <3>"}
+23-07-2024 00:26:24.461 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Additi {} and {}" parameterizedStepValue:"Additi <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:26:24.760 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Additio <2> and <3>"}
+23-07-2024 00:26:24.760 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Additio {} and {}" parameterizedStepValue:"Additio <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:26:24.960 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addition <2> and <3>"}
+23-07-2024 00:26:24.960 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addition {} and {}" parameterizedStepValue:"Addition <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:26:32.442 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addition <number1> and <number2>"}
+23-07-2024 00:26:32.442 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addition {} and {}" parameterizedStepValue:"Addition <number1> and <number2>" parameters:"number1" parameters:"number2"}}
+23-07-2024 00:27:32.593 [Gauge] [DEBUG] Spec file added / modified: /Users/alierendasdemir/IdeaProjects/Gauge_Docker/specs/test.spec
+23-07-2024 00:27:58.513 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addition "}
+23-07-2024 00:27:58.513 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addition" parameterizedStepValue:"Addition"}}
+23-07-2024 00:29:09.904 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addition <2 and <3>"}
+23-07-2024 00:29:09.906 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addition {}" parameterizedStepValue:"Addition <2 and <3>" parameters:"2 and <3"}}
+23-07-2024 00:29:10.054 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addition <2\" and <3>"}
+23-07-2024 00:29:10.054 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addition {}" parameterizedStepValue:"Addition <2\" and <3>" parameters:"2\" and <3"}}
+23-07-2024 00:29:13.126 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addition 2"}
+23-07-2024 00:29:13.127 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addition 2" parameterizedStepValue:"Addition 2"}}
+23-07-2024 00:29:13.297 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addition \"2\" and <3>"}
+23-07-2024 00:29:13.297 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addition {} and {}" parameterizedStepValue:"Addition <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:29:16.483 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addition \"2\" and"}
+23-07-2024 00:29:16.483 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addition {} and" parameterizedStepValue:"Addition <2> and" parameters:"2"}}
+23-07-2024 00:29:17.097 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addition \"2\" and 3"}
+23-07-2024 00:29:17.097 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addition {} and 3" parameterizedStepValue:"Addition <2> and 3" parameters:"2"}}
+23-07-2024 00:29:17.202 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addition \"2\" and \"3\""}
+23-07-2024 00:29:17.202 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addition {} and {}" parameterizedStepValue:"Addition <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 00:29:19.207 [Gauge] [DEBUG] Spec file added / modified: /Users/alierendasdemir/IdeaProjects/Gauge_Docker/specs/test.spec
+23-07-2024 10:50:11.420 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+23-07-2024 10:50:11.422 [Gauge] [INFO] Initializing specs cache with 1 specs
+23-07-2024 10:50:11.422 [Gauge] [DEBUG] Adding specs from /Users/alierendasdemir/IdeaProjects/Gauge_Docker/specs/test.spec
+23-07-2024 10:50:11.422 [Gauge] [INFO] Initializing steps cache with 1 steps
+23-07-2024 10:50:11.423 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49325
+23-07-2024 10:50:11.424 [Gauge] [DEBUG] Watching directory: /Users/alierendasdemir/IdeaProjects/Gauge_Docker/specs
+23-07-2024 10:50:11.424 [Gauge] [DEBUG] Found 1 files
