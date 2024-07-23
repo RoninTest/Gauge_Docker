@@ -1,8 +1,5 @@
 [
-	"/opt/homebrew/bin/gauge",
+	"gauge",
 	"run",
-	"--machine-readable",
-	"--hide-suggestion",
-	"--simple-console",
-	"/Users/alierendasdemir/IdeaProjects/Gauge_Docker/specs/test.spec"
+	"specs"
 ]

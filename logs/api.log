@@ -174,3 +174,7 @@
 23-07-2024 10:50:11.423 [Gauge] [INFO] Gauge daemon initialized and listening on port: 49325
 23-07-2024 10:50:11.424 [Gauge] [DEBUG] Watching directory: /Users/alierendasdemir/IdeaProjects/Gauge_Docker/specs
 23-07-2024 10:50:11.424 [Gauge] [DEBUG] Found 1 files
+23-07-2024 17:06:08.307 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addition \"2\" and \"3\""}
+23-07-2024 17:06:08.309 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addition {} and {}" parameterizedStepValue:"Addition <2> and <3>" parameters:"2" parameters:"3"}}
+23-07-2024 17:06:08.312 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest messageId:4 stepValueRequest:{stepText:"Addition <number1> and <number2>"}
+23-07-2024 17:06:08.312 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse messageId:4 stepValueResponse:{stepValue:{stepValue:"Addition {} and {}" parameterizedStepValue:"Addition <number1> and <number2>" parameters:"number1" parameters:"number2"}}
