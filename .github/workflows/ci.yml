@@ -31,5 +31,5 @@ jobs:
 
       - name: Run tests
         run: |
-          docker run your_dockerhub_username/my-gauge-project:latest gauge run specs
+          docker run testronintest@gmail.com/my-gauge-project:latest gauge run specs
           
