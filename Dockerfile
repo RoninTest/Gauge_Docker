@@ -21,12 +21,12 @@ ENV PATH="$JAVA_HOME/bin:$PATH"
 
 # Gauge
 RUN curl -SsL https://downloads.gauge.org/stable | sh \
-    && gauge install java html-report xml-report screenshot
+    gauge install java && \
+    gauge install screenshot
 
 # Directory
 WORKDIR /app
 COPY . /app
-
 
 # Maven
 RUN mvn clean package
