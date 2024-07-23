@@ -26,8 +26,8 @@ jobs:
 
       - name: Build and push Docker image
         run: |
-          docker build -t your_dockerhub_username/your_image_name:latest .
-          docker push your_dockerhub_username/your_image_name:latest
+          docker build -t erendasdemir/my-gauge-project:latest .
+          docker push erendasdemir/my-gauge-project:latest
 
       - name: Run tests
         run: |
