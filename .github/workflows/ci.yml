@@ -26,10 +26,10 @@ jobs:
 
       - name: Build and push Docker image
         run: |
-          docker build -t my-gauge-project:latest .
-          docker push my-gauge-project:latest
+          docker build -t ronirola/my-gauge-project:latest .
+          docker push ronirola/my-gauge-project:latest
 
       - name: Run tests
         run: |
-          docker run my-gauge-project:latest gauge run specs
+          docker run ronirola/my-gauge-project:latest gauge run specs
           
