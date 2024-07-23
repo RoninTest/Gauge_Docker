@@ -15,10 +15,6 @@ RUN apt-get update && apt-get install -y \
     wget \
     openjdk-11-jdk
 
-# JAVA_HOME
-ENV JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
-ENV PATH="$JAVA_HOME/bin:$PATH"
-
 # Gauge
 RUN curl -SsL https://downloads.gauge.org/stable | sh
 
@@ -30,12 +26,11 @@ RUN gauge install java && \
 WORKDIR /app
 COPY . /app
 
-
 # Maven
 RUN mvn clean package
 
 # Environment variables
 ENV PATH=$HOME/.gauge:$PATH
 
-# Gauge command
+# Test command
 CMD ["gauge", "run", "specs"]
