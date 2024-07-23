@@ -1,7 +1,7 @@
 <testsuites>
-	<testsuite id="1" tests="1" failures="0" package="/Users/alierendasdemir/IdeaProjects/Gauge_Docker/specs/test.spec" time="0.000" timestamp="2024-07-23T00:30:57" name="Specification Heading" errors="0" hostname="192.168.1.49">
+	<testsuite id="1" tests="1" failures="0" package="/Users/alierendasdemir/IdeaProjects/Gauge_Docker/specs/test.spec" time="0.001" timestamp="2024-07-23T14:44:30" name="Specification Heading" errors="0" hostname="192.168.1.62">
 		<properties></properties>
-		<testcase classname="Specification Heading" name="Scenario Heading" time="0.000"></testcase>
+		<testcase classname="Specification Heading" name="Scenario Heading" time="0.001"></testcase>
 		<system-out></system-out>
 		<system-err></system-err>
 	</testsuite>
